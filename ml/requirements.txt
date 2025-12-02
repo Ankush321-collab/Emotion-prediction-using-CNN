@@ -1,0 +1,7 @@
+flask
+tensorflow
+numpy
+nltk
+scikit-learn
+
+# https://colab.research.google.com/drive/1adX6bfCK9gA-800G42IO7BClUDGrWb4C?usp=sharing

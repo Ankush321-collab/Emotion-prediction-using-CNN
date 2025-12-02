@@ -1,0 +1,41 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+.env
+.DS_Store
+
+# Virtual environment folders (alternative names)
+env/
+.venv/
+ENV/
+ENV*/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# VS Code settings (optional)
+.vscode/
+
+# Build and cache folders
+dist/
+build/
+.cache/
+coverage/
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+git rm -r --cached ml/venv
